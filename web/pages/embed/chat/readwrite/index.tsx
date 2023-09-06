@@ -71,7 +71,7 @@ export default function ReadWriteChatEmbed() {
               chatUserId={currentUser.id}
               isModerator={currentUser.isModerator}
               showInput
-              height="92vh"
+              height="90vh"
               chatAvailable={isChatAvailable}
             />
           </div>
