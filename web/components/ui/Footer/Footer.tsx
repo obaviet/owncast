@@ -10,16 +10,16 @@ export const Footer: FC = () => {
   return (
     <footer className={styles.footer} id="footer">
       <span>
-        Powered by <a href="https://owncast.online">Owncast v{versionNumber}</a>
+        Powered by <a href="https://createweb">Create Web v{versionNumber}</a>
       </span>
       <span className={styles.links}>
-        <a href="https://owncast.online/docs" target="_blank" rel="noreferrer">
+        <a href="https://createweb.us/docs" target="_blank" rel="noreferrer">
           Documentation
         </a>
-        <a href="https://owncast.online/help" target="_blank" rel="noreferrer">
+        <a href="https://createweb.us/help" target="_blank" rel="noreferrer">
           Contribute
         </a>
-        <a href="https://github.com/owncast/owncast" target="_blank" rel="noreferrer">
+        <a href="https://github.com/obaviet" target="_blank" rel="noreferrer">
           Source
         </a>
       </span>
